@@ -1,4 +1,4 @@
-# Azure Data Factory and Databricks Platform 
+# Azure Data Factory and Databricks Platform #
 This project delivers data engineering technologies from Azure, using Terraform and an Azure DevOps CI/CD pipeline to provision,
 configure and maintain the services. The following technologies are used within this solution:
 - Azure data lake
